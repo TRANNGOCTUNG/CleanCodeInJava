@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9cbca94-280a-4b8c-aaab-4662fa89f0a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleanCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calclator/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calclator/Calculators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CleanCode/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Refactore/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Refactore/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/TestFizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/cvs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tennisGame/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tennisGame/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2/MathUil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2/TestMatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3/MathUtilCsvTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3/csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test3/cvs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nl3NFXSGHQvY7KCmZ9IgnBWQKU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Refactore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TennisGameTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cylinder.Main" />
+      <module name="CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cylinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tennisGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tennisGame" />
+      <option name="MAIN_CLASS_NAME" value="tennisGame.TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="refactoring" />
+      <option name="MAIN_CLASS_NAME" value="refactoring.TestFizzBuzz" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFizzBuzz.testFizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="refactoring" />
+      <option name="MAIN_CLASS_NAME" value="refactoring.TestFizzBuzz" />
+      <option name="METHOD_NAME" value="testFizz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFizzBuzz.testFizzBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CleanCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="refactoring" />
+      <option name="MAIN_CLASS_NAME" value="refactoring.TestFizzBuzz" />
+      <option name="METHOD_NAME" value="testFizzBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TennisGameTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestFizzBuzz.testFizzBuzz" />
+        <item itemvalue="JUnit.TestFizzBuzz.testFizz" />
+        <item itemvalue="JUnit.TestFizzBuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9cbca94-280a-4b8c-aaab-4662fa89f0a0" name="Changes" comment="" />
+      <created>1680224800099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680224800099</updated>
+      <workItem from="1680224801248" duration="2508000" />
+      <workItem from="1680227467444" duration="9265000" />
+      <workItem from="1680237149759" duration="6877000" />
+      <workItem from="1680416478312" duration="5000" />
+      <workItem from="1680451995907" duration="748000" />
+      <workItem from="1680454027779" duration="16000" />
+      <workItem from="1680504123943" duration="454000" />
+      <workItem from="1680504619115" duration="23000" />
+      <workItem from="1680505261103" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
